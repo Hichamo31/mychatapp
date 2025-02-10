@@ -22,4 +22,4 @@ CREATE TABLE users (
 
 -- Create sample user for testing
 INSERT INTO users (id, email, first_name, last_name, role)
-VALUES ('e6h0n4lc', 'myaicour@gmail.com', 'Test', 'User', 'admin');
+VALUES ('68rm3ehkelb9', 'hichambenadla0@gmail.com', 'Test', 'hicham', 'admin');

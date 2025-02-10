@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1739196089771,
+      "tag": "0000_funny_morlun",
+      "breakpoints": true
+    }
+  ]
+}
